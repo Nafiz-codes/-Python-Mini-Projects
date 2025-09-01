@@ -1,37 +1,26 @@
-🏎️ F1 Top-Down Racing Game
+🧮 Python Calculator
 
-A simple 2D top-down Formula 1 racing game built with Python and Pygame.
-Race around custom tracks, test your driving skills, and have fun experimenting with game development mechanics like collisions, lap timing, and AI/NPCs.
+A simple calculator built with Python.
+It supports basic arithmetic operations and demonstrates how to build an interactive command-line program in Python.
 
-🎮 Features
+✨ Features
 
-🚗 Player-controlled F1 car with smooth steering & acceleration
+➕ Addition
 
-🛣️ Track system (drawn from images or generated)
+➖ Subtraction
 
-⏱️ Lap timing & checkpoints (track performance)
+✖️ Multiplication
 
-🧑‍🤖 (Optional) NPC cars for racing against AI
+➗ Division (with zero-check)
 
-🎨 Simple graphics with Pygame for fast performance
+🎯 Beginner-friendly & easy to understand
 
-🖥️ Demo
-<img width="1203" height="834" alt="f1" src="https://github.com/user-attachments/assets/fead91d4-6d58-4e36-8540-7382a8c0a0f5" />
+🎮 Usage
 
-🎮 Controls
+When you run the calculator, you can:
 
-⬆️ Up Arrow → Accelerate
+Enter two numbers
 
-⬇️ Down Arrow → Brake/Reverse
+Choose an operation (+, -, *, /)
 
-⬅️ Left Arrow → Steer left
-
-➡️ Right Arrow → Steer right
-
-Esc → Quit
-
-🛠️ Tech Stack
-
-Python 3
-
-Pygame (for graphics & input handling)
+Get the result instantly
