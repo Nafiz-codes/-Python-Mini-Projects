@@ -1,9 +1,9 @@
-🧮 Python Calculator
+# 🧮 Python Calculator
 
 A simple calculator built with Python.
 It supports basic arithmetic operations and demonstrates how to build an interactive command-line program in Python.
 
-✨ Features
+## ✨ Features
 
 ➕ Addition
 
@@ -15,7 +15,7 @@ It supports basic arithmetic operations and demonstrates how to build an interac
 
 🎯 Beginner-friendly & easy to understand
 
-🎮 Usage
+## 🎮 Usage
 
 When you run the calculator, you can:
 
