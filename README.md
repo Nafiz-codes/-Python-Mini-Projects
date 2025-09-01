@@ -15,4 +15,23 @@ Race around custom tracks, test your driving skills, and have fun experimenting 
 
 🎨 Simple graphics with Pygame for fast performance
 
-🖥️ Demo# -Python-Mini-Projects
+🖥️ Demo
+<img width="1203" height="834" alt="f1" src="https://github.com/user-attachments/assets/fead91d4-6d58-4e36-8540-7382a8c0a0f5" />
+
+🎮 Controls
+
+⬆️ Up Arrow → Accelerate
+
+⬇️ Down Arrow → Brake/Reverse
+
+⬅️ Left Arrow → Steer left
+
+➡️ Right Arrow → Steer right
+
+Esc → Quit
+
+🛠️ Tech Stack
+
+Python 3
+
+Pygame (for graphics & input handling)
